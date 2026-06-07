@@ -1,0 +1,9 @@
+[package]
+name = "betti-curve"
+version = "0.1.0"
+edition = "2021"
+description = "Betti curves, barcodes, Euler curves, and persistence entropy for topological data analysis summaries"
+license = "MIT"
+repository = "https://github.com/SuperInstance/betti-curve"
+
+[dependencies]
